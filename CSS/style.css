@@ -1,0 +1,29 @@
+*{margin: 0;
+padding: 0;
+font-family: Century Gothic;
+}
+body{
+    background-image: url(../image/Happy-Dashain-Wallpapers-2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    color: midnightblue;
+    position: sticky;
+    height: 1px;
+    padding: 100px 25px;
+    font-size: 100px;
+    font-family: Blackadder ITC;
+}
+p{
+    color:red ;
+    padding: 0px 25px;
+    width: 90%;
+    font-size: 30px;
+    font-family: Arial;
+}
+h2{
+    color: slategray;
+    text-align: center;
+}
